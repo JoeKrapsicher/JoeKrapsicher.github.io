@@ -582,7 +582,7 @@ img {
 }
 /*Phone Media*/
 
-@media only screen and (max-width: 320px ){
+@media only screen and (max-width: 720px ){
     html{
         overflow-x: hidden;
         scroll-behavior: smooth;
